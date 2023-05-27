@@ -1,7 +1,7 @@
 
 # Anthony Lee's Resume Web Application
 
-This web application showcases Anthony Lee's resume using Streamlit, a Python library for building interactive web applications. The application displays Anthony's contact information, skills, experience, education, and Coursera certificates.
+This web application showcases my resume using Streamlit, a Python library for building interactive web applications. The application displays my contact information, skills, experience, education, and Coursera certificates.
 
 To view the web application, visit [https://resume-cm79.onrender.com/](https://resume-cm79.onrender.com/).
 
