@@ -41,7 +41,7 @@ def main():
 
     with contact_col2:
         st.subheader("Contact Information")
-        st.write("Phone: 479.352.4993")
+      
         st.write("Email: alee97422@gmail.com")
 
         st.subheader("Social Media")
